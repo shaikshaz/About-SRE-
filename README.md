@@ -1,7 +1,7 @@
 # About-SRE
 Objective: About SRE and related SLI, SLO and SLA's:
 
-
+![image](https://github.com/shaikshaz/About-SRE-/assets/154241222/855b3af2-d7e4-4f9f-85fe-1a416bc5b222)
  
 SITUATION: In a system cloud services, servers, database, networks are the services we rely on, sometimes there are outage issues that will decrease your business and customers and decrease the release process so to make sure the downtime is very low SRE-Site reliability engineer comes into picture.
 
