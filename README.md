@@ -1,5 +1,7 @@
 # About-SRE
-Objective: About SRE and SLI, SLO and SLA:
+Objective: About SRE and related SLI, SLO and SLA's:
+
+
  
 SITUATION: In a system cloud services, servers, database, networks are the services we rely on, sometimes there are outage issues that will decrease your business and customers and decrease the release process so to make sure the downtime is very low SRE-Site reliability engineer comes into picture.
 
