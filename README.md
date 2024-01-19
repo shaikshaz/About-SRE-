@@ -22,7 +22,7 @@ SLA: SLA is a service-level agreement and what it does is it says here is what I
 RESULT: so, to summarize SLI's or service level indicators or metrics over time which inform about the health of a service which reduces the latency, Time load, Browsing time etc.
 Ex: 95% of latency in the homepage request over past 5 min in < 300min.
 
--SLO's (service level objectives) which are agreed upon bounds for how often those SLI's must be met and finally they pop out automatically the objects to reach the target which were agreed like LB, ASG containers in Kubernetes make architecture more efficient.
+-SLO's (service level objectives) which are agreed upon bounds for how often those SLI's must be met and finally they pop out automatically the objects to reach the target which were agreed to make architecture more efficient.
 
 -With that SLA's that are business level agreements which define the service of availability for our customer and the penalties for failing to deliver that availability helps to meet the targets like
   >Payment is done when 95 % less in latency issues i.e. if the SLI does not go down 99% less i.e. only few days in a year which increases customers.
