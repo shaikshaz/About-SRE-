@@ -26,3 +26,4 @@ Ex: 95% of latency in the homepage request over past 5 min in < 300min.
 
 -With that SLA's that are business level agreements which define the service of availability for our customer and the penalties for failing to deliver that availability helps to meet the targets like
   >Payment is done when 95 % less in latency issues i.e. if the SLI does not go down 99% less i.e. only few days in a year which increases customers.
+![image](https://github.com/shaikshaz/About-SRE-/assets/154241222/4e6e3fd4-f7c3-4c0b-9366-619d8d6c69d2)
